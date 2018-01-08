@@ -10,10 +10,10 @@ Made with ❤️ by Pahud Hsieh. Available on the [AWS Serverless Application Re
 
 ## Features
 
-1. No Lamba authoring, one-click from AWS Serverless App Repository to deploy the stack
+1. No Lamba authoring, one-click from [AWS Serverless Application Repository](https://aws.amazon.com/serverless) to deploy the stack
 2. public demo available, just rewrite the domain from **hooks.slack.com** to **hooks.slack.serverless.im** and all done.
 3. severity coloring support (red/orange/green)
-4. click to the alarm link supported
+4. one click to the alarm  supported
 
 ![demo](images/demo01.png)
 
